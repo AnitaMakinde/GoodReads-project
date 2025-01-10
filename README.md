@@ -39,7 +39,6 @@ This is an overview of the dashboard I created
 
 ## 5️⃣ Top 5 Language codes
 
-![image](https://github.com/user-attachments/assets/19b3cf7d-9514-4808-911c-fc2b91d55f30)
 ![image](https://github.com/user-attachments/assets/8b316fc0-1148-49db-86c4-59b07f5819b1)
 
 ## 💡 Key Insights
@@ -49,3 +48,14 @@ This is an overview of the dashboard I created
 3. **Publisher trends**: The Publisher with the most amount of books catalouged in Vintage followed by Penguin Books.
 4. **Ratings highlights**: Twilight is the book with the most ratings on Goodreads
 5. **Language codes trends**: English is the most common language for books catalogued on Goodreads followed by Spanish
+
+## ❓ Limitations and further questions
+
+⚫ There were some issues with the date formatting and therefore I wasn't able to use all data for the publication year
+⚫ I would like to get an updated dataset to compare the insights drawn
+
+## 🌟 How to Explore the Project
+
+1. Clone this repository:  
+   ```bash
+   git clone https://github.com/your-username/uk-
