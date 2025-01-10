@@ -9,15 +9,43 @@ Goodreads is a website that lets users track their reading and share their taste
 
 ## 🔧 Tools and Techniques
 
-- **Excel**:  
-  - 🧹 *Data Cleaning*: Removed duplicates, formatted the data, and handled missing values.  
-  - 📊 *Calculations*: Used formulas to calculate totals and percentages.  
-  - 🔍 *Filtering*: Focused on specific industries, cities, and sub-industries for deeper analysis.  
-
-- **Tableau**:  
+- **Power BI**:  
+  - 🧹 *Data Cleaning*: Using Query Editor I removed duplicates, formatted the data, and handled missing values.    
   - 🖼️ *Data Visualization*: Created interactive dashboards to bring the data to life!
 
 ---
 
 ## 📈 Visualizations
 
+This is an overview of the dashboard I created
+
+![image](https://github.com/user-attachments/assets/c684be10-582c-4cf8-9329-23c45a232ec4)
+
+## 1️⃣ Number of Books by Publication Year
+
+![image](https://github.com/user-attachments/assets/a4efaeaa-2bb4-4b56-8a52-c3f5af92b91a)
+
+## 2️⃣ Total books by Author
+
+![image](https://github.com/user-attachments/assets/41faa719-17b7-496a-a49c-252cc791e547)
+
+## 3️⃣ Total books by Publisher
+
+![image](https://github.com/user-attachments/assets/d86fd1cd-942f-4a19-b49f-0ce7ac41e3ac)
+
+## 4️⃣ Book Title by Ratings Count
+
+![image](https://github.com/user-attachments/assets/271df9c6-814a-4f53-a264-ed0b5a544ada)
+
+## 5️⃣ Top 5 Language codes
+
+![image](https://github.com/user-attachments/assets/19b3cf7d-9514-4808-911c-fc2b91d55f30)
+![image](https://github.com/user-attachments/assets/8b316fc0-1148-49db-86c4-59b07f5819b1)
+
+## 💡 Key Insights
+
+1. **Books by Publication Year highlights**: The majority of books catalogued on Goodreads were published after the year 2000.  
+2. **Total books by Author**: P.G. Wodehouse is the author with the most books on Goodreads  
+3. **Publisher trends**: The Publisher with the most amount of books catalouged in Vintage followed by Penguin Books.
+4. **Ratings highlights**: Twilight is the book with the most ratings on Goodreads
+5. **Language codes trends**: English is the most common language for books catalogued on Goodreads followed by Spanish
