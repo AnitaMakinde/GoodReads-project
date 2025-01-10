@@ -1,4 +1,4 @@
-# 📚 Goodreads POWER BI Project
+# 📚 Goodreads Power BI Project
 
 Welcome to my **Goodreads Power BI Project**! This project explores the books that have been logged on the Goodreads platform up until **2020**, focusing on Publishing dates, Publishers, Authors, and most common languages books are read in. 📖🌍
 
