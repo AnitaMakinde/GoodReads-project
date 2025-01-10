@@ -58,4 +58,4 @@ This is an overview of the dashboard I created
 
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/your-username/uk-
+   git clone [https://github.com/AnitaMakinde/GoodReads-project]
